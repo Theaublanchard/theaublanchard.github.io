@@ -3,13 +3,13 @@
 
 
 # Name of website
-title: Pierre Clavier
+title: Théau Blanchard
 
 # Short description of your site
-description: PhD in Reinforcement Learning
+description: PhD in Multimodal Self-Supervised Learning
 
 # Your name to show in the footer
-author: Pierre Clavier
+author: Théau Blanchard
 
 # --- List of links in the navigation bar --- #
 
@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/pierre_photoMG_0807.HEIC"  #"./assets/img/pierre_photo.jpg"
+avatar: "/assets/img/theau_profile_pic.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 #round-avatar: true
@@ -39,13 +39,14 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "pierre.clavier@polytechnique.edu"
+  email: "theau.blanchard@gehealthcare.com"
   
-  github: pierreclavier
+  github: TheauBlanchard
   
   rss: False
+  linkedin: theau-blanchard-0540271b8
+# google-scholar: citations?user=-KnIaGsAAAAJ
 #  reddit: yourname
-  linkedin: pierre-clavier-823171135
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,7 +61,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=-KnIaGsAAAAJ
 
 # --- General options --- #
 
@@ -168,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
