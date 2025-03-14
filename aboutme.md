@@ -26,4 +26,5 @@ I'm especially interested :
 News : 
 
 **03/2025**: I will attend IABM 2025 in Nice, let's met up there !
+
 **12/2024**: I presented my project at the annual retrospective of [FHU MOSAIC](https://fhu-mosaic.com/)
