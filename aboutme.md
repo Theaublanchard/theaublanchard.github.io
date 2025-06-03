@@ -25,6 +25,10 @@ I'm especially interested :
 
 News : 
 
+**07/2025** : I will attend the annual seminar of the [ERC Synergy OCEAN](https://oceanerc.com/) to talk about sampling on Finsler Manifold.
+
+**06/2025** : I will be presenting my work on Riemmanian metric learning for trajectory inference at the CIFRE Day at GEHealthcare.
+
 **03/2025**: I will attend IABM 2025 in Nice, let's met up there !
 
-**12/2024**: I presented my project at the annual retrospective of [FHU MOSAIC](https://fhu-mosaic.com/)
+**12/2024**: I presented my project at the annual retrospective of [FHU MOSAIC](https://fhu-mosaic.com/).
